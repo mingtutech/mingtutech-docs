@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "enabled": true,
-  "latestVersion": "1.3.0",
+  "latestVersion": "1.4.0",
   "minimumSupportedVersion": null,
   "title": "发现新版本",
   "releaseNotes": [
-    "新增 Apple 健康用药导入功能"
+    "新增药品有效期管理功能"
   ],
   "storeURL": "https://apps.apple.com/cn/app/id6790326256"
 }
